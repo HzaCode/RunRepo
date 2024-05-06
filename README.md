@@ -1,2 +1,2 @@
 # RunRepo
-tracking, analyzing, and visualizing
+tracking, analyzing and visualizing
